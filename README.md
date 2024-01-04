@@ -3,6 +3,7 @@ This industrial dataset contains eight different types of ICS protocols, primari
 # Citation Request
 Please cite the following paper if you use this dataset:
 Zhen Qin, Zeyu Yang, Yangyang Geng, Xin Che, Tianyi Wang, Hengye Zhu, Peng Cheng, Jiming Chen. "Reverse Engineering Industrial Protocols Driven by Control Fields," IEEE INFOCOM 2024 - IEEE Conference on Computer Communications, accepted.
+'''
 BibTeX
 @inproceedings{Qin2024Reverse,
   title={Reverse Engineering Industrial Protocols Driven by Control Fields},
@@ -11,3 +12,4 @@ BibTeX
   year={2024},
   status={accepted}
 }
+'''
